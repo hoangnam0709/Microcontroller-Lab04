@@ -1,0 +1,11 @@
+scheduler.c:19:17:SCH_EnterCritical	16	static,ignoring_inline_asm
+scheduler.c:26:13:SCH_ExitCritical	24	static,ignoring_inline_asm
+scheduler.c:35:17:SCH_FindFreeIDLocked	24	static
+scheduler.c:64:16:SCH_DeleteTaskLocked	32	static
+scheduler.c:102:17:SCH_AddTaskLocked	64	static
+scheduler.c:174:6:SCH_Init	16	static
+scheduler.c:198:6:SCH_Update	4	static
+scheduler.c:207:10:SCH_Add_Task	32	static
+scheduler.c:230:9:SCH_Delete_Task	24	static
+scheduler.c:246:6:SCH_Dispatch_Tasks	48	static
+scheduler.c:319:10:get_time	4	static
